@@ -3,3 +3,4 @@
 'yes i am new 2'
 
 'hi'
+a = 10
