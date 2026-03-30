@@ -2,5 +2,7 @@
 'i am a new'
 'yes i am new 2'
 
+
 'hi'
-a = 20
+a = 10
+
